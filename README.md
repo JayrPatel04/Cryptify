@@ -1,12 +1,42 @@
-# React + Vite
+<h1 align="center">💹 CRYPTIFY</h1>
+<p align="center"><em>Track live cryptocurrency prices, search for any coin, and explore interactive charts in real time.</em></p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CoinGecko%20API-28a745?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+🌐 **Check it out here**: [cryptify-yourusername.vercel.app](https://cryptify-ebon.vercel.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📜 Overview
+
+**Cryptify** is a modern, responsive cryptocurrency tracker built using **React**. It fetches real-time data from the CoinGecko API to provide users with the latest information on crypto prices, trends, and charts.
+
+### 🔍 Key Features:
+- 🏆 Displays top 10 cryptocurrencies on the homepage
+- 🔎 Global search functionality for any coin
+- 📈 Coin-specific pages with interactive charts and detailed statistics
+- 🌐 Fully responsive and user-friendly UI
+- ⚙️ Built using reusable React components and hooks
+
+---
+
+## 👨‍💻 My Contribution
+
+This is a solo project where I:
+- Set up the React app structure using Vite
+- Integrated **CoinGecko API** to fetch real-time data
+- Created routes and components for coin listing and detail pages
+- Designed the UI using custom CSS 
+- Deployed the app on **Vercel** for global access
+
+
