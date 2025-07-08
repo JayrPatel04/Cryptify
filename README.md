@@ -9,11 +9,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
----
-
-## 🔗 Live Demo
-
-🌐 **Check it out here**: (https://cryptify-ebon.vercel.app)
 
 ---
 
@@ -30,6 +25,13 @@
 
 ---
 
+## 🔗 Live Demo
+
+🌐 **Check it out here**: (https://cryptify-ebon.vercel.app)
+
+
+---
+
 ## 👨‍💻 My Contribution
 
 This is a solo project where I:
@@ -38,5 +40,7 @@ This is a solo project where I:
 - Created routes and components for coin listing and detail pages
 - Designed the UI using custom CSS 
 - Deployed the app on **Vercel** for global access
+
+- 
 
 
