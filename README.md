@@ -10,11 +10,14 @@
 </p>
 
 
+
 ---
 
 ## 📜 Overview
 
+
 **Cryptify** is a modern, responsive cryptocurrency tracker built using **React**. It fetches real-time data from the CoinGecko API to provide users with the latest information on crypto prices, trends, and charts.
+
 
 ### 🔍 Key Features:
 - 🏆 Displays top 10 cryptocurrencies on the homepage
@@ -22,6 +25,7 @@
 - 📈 Coin-specific pages with interactive charts and detailed statistics
 - 🌐 Fully responsive and user-friendly UI
 - ⚙️ Built using reusable React components and hooks
+
 
 ---
 
@@ -34,6 +38,7 @@
 
 ## 👨‍💻 My Contribution
 
+
 This is a solo project where I:
 - Set up the React app structure using Vite
 - Integrated **CoinGecko API** to fetch real-time data
@@ -41,6 +46,6 @@ This is a solo project where I:
 - Designed the UI using custom CSS 
 - Deployed the app on **Vercel** for global access
 
-- 
+
 
 
